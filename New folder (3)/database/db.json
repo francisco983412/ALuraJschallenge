@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "tuallas",
+      "precio": 290,
+      "imagen": "imagenes/Imagen de WhatsApp 2024-01-11 a las 10.54.05_ab4109a7.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "panel",
+      "precio": 780,
+      "imagen": "imagenes/Imagen de WhatsApp 2024-01-11 a las 10.45.53_4e6b58c3.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "panel",
+      "precio": 346,
+      "imagen": "imagenes/Imagen de WhatsApp 2024-01-11 a las 10.45.53_23fb3e37.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "panel",
+      "precio": 2120,
+      "imagen": "imagenes/Imagen de WhatsApp 2024-01-11 a las 10.54.05_458e12fd.jpg"
+    }
+    
+  ]
+}
